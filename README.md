@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/musa tayyip görgeç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musa tayyip görgeç" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/musa-tayyip-g%C3%B6rge%C3%A7-278560188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musa tayyip görgeç" height="30" width="40" /></a>
 <a href="https://instagram.com/gor_vegec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gor_vegec" height="30" width="40" /></a>
 </p>
 
